@@ -1,0 +1,8 @@
+﻿## Interface: 120001
+## Title: WhisperAnnouncer
+## Notes: Muestra un aviso cuando te susurran
+## Author: MaQuina1995
+## Version: 1.0.0
+
+Locale\Locale.lua
+WhisperAnnouncer.lua
